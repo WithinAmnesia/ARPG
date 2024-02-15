@@ -1,0 +1,4 @@
+[+5FPS]15 Frames Per Second(Half of 30FPS, Quarter of 60FPS Eighth of 60FPS)
+Hmmm 30 fps but interlaced frames. Also 10 fps looks choppy, 30 is hyper run, 24 is sprinting and 16 looks okay but 16 does not scale well, 15 fps is half of 30 fps and 30 is half of 60 fps and 60 fp si half of 120 fps. 15 FPS is probably a good benchmark.
+I also made my idle animations 5fps (they are naturally slower running animations anyway) which can be scaled up to 15 fps with 2 between  frames if needed. As like 1.0 -> 1.(1/3)* -> 1.(2/3)* -> 2.0 but is a bit messier than just adding 1 frame like 1.0 -> 1.5* -> 2.0. As with frame transitions doubling to go from 15fps -> 30fps -> 60fps -> 120fps.
+-Matthew Gordon Roulston 11:15-47 AM 13th / 07th (July) / 2023

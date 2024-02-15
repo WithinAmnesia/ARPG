@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://6sb1enwlk2ek"
+path="res://.godot/imported/Elias Luukkanen + Matthew Gordon Roulston - Anthem Of AGABAL Busting Into The Polka Solo!.wav-b5360999b20a7ebfd22ab9f8b5a69f99.sample"
+
+[deps]
+
+source_file="res://A.R.P.G.[V.000.001]/Audio/Music/Elias Luukkanen + Matthew Gordon Roulston - Anthem Of AGABAL Busting Into The Polka Solo!.wav"
+dest_files=["res://.godot/imported/Elias Luukkanen + Matthew Gordon Roulston - Anthem Of AGABAL Busting Into The Polka Solo!.wav-b5360999b20a7ebfd22ab9f8b5a69f99.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://chjiqrx1gw2rr"
+path="res://.godot/imported/Tower 06 - Level 02 - Weapon.png-29171f3b18ca8914b9b1988b8a578fbf.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Spire/Foozle_2DS0019_Spire_TowerPack_3/Towers Weapons/Tower 06/Spritesheets/Tower 06 - Level 02 - Weapon.png"
+dest_files=["res://.godot/imported/Tower 06 - Level 02 - Weapon.png-29171f3b18ca8914b9b1988b8a578fbf.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bftxxgekpytsr"
+path="res://.godot/imported/track 1.ogg-58289e0fa99ae68d770a8fc0d85ebffb.oggvorbisstr"
+
+[deps]
+
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Mixed/Foozle_M0001_Eerie_Space_Music/track 1.ogg"
+dest_files=["res://.godot/imported/track 1.ogg-58289e0fa99ae68d770a8fc0d85ebffb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

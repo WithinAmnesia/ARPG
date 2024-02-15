@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ctq40bb630mg0"
+path="res://.godot/imported/foozlecc - Theme #2.mp3-71ee5a9a9c5755416cb3c17adf1bdd2c.mp3str"
+
+[deps]
+
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Mixed/Foozle_M0002_Explorer_Chiptunes/foozlecc - Theme #2.mp3"
+dest_files=["res://.godot/imported/foozlecc - Theme #2.mp3-71ee5a9a9c5755416cb3c17adf1bdd2c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cb2cwopb7oxm6"]
+
+[ext_resource type="Texture2D" uid="uid://b7a8f00yao2em" path="res://AGABAL_B.o.S._R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DC0009_Lucifer_Warrior_Pixel_Art/Down/Png/WarriorDownAttack01.png" id="3_kcvxk"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="WarriorDownAttack01" type="Sprite2D" parent="."]
+position = Vector2(177, 133)
+texture = ExtResource("3_kcvxk")

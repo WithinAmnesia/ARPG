@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cy76q41migqdr"
+path="res://.godot/imported/Kla'ed - Dreadnought - Base.png-3e4fb5e384adee6a8235da352b97bd08.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Void/Foozle_2DS0012_Void_EnemyFleet_1/Kla'ed/Base/PNGs/Kla'ed - Dreadnought - Base.png"
+dest_files=["res://.godot/imported/Kla'ed - Dreadnought - Base.png-3e4fb5e384adee6a8235da352b97bd08.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
