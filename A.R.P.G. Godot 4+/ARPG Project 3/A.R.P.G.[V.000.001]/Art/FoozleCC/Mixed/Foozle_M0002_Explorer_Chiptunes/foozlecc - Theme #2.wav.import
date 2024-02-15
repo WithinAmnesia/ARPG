@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://51iil6ccl2n6"
+path="res://.godot/imported/foozlecc - Theme #2.wav-eaa0d5f83f18cd5a5ef8113a975ba4a6.sample"
+
+[deps]
+
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Mixed/Foozle_M0002_Explorer_Chiptunes/foozlecc - Theme #2.wav"
+dest_files=["res://.godot/imported/foozlecc - Theme #2.wav-eaa0d5f83f18cd5a5ef8113a975ba4a6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

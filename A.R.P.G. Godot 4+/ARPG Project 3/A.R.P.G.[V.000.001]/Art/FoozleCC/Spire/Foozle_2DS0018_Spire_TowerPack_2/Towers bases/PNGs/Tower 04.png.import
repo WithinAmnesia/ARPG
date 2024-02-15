@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://0ncpc4kinfju"
+path="res://.godot/imported/Tower 04.png-445b8c3aa614fb8443c093b703cdb8ce.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Spire/Foozle_2DS0018_Spire_TowerPack_2/Towers bases/PNGs/Tower 04.png"
+dest_files=["res://.godot/imported/Tower 04.png-445b8c3aa614fb8443c093b703cdb8ce.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

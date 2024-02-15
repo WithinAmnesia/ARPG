@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bsh62vfnb6edh"
+path="res://.godot/imported/foozlecc - Under Pressure Theme 2.mp3-385d24cbac9cc24feb9ba5d5410ba0a5.mp3str"
+
+[deps]
+
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Mixed/Foozle_M0002_Explorer_Chiptunes/foozlecc - Under Pressure Theme 2.mp3"
+dest_files=["res://.godot/imported/foozlecc - Under Pressure Theme 2.mp3-385d24cbac9cc24feb9ba5d5410ba0a5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
