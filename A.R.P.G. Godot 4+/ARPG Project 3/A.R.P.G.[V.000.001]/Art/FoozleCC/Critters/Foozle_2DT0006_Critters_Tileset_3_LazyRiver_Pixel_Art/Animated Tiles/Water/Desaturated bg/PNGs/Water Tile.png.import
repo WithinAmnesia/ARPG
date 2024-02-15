@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3lmpchwnpydj"
-path="res://.godot/imported/Water Tile.png-e6a75a8b24df6517219c69f6d0bec620.ctex"
+path="res://.godot/imported/Water Tile.png-ecfb67f4165ce3e6812460d8df1dcf51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Critters/Foozle_2DT0006_Critters_Tileset_3_LazyRiver_Pixel_Art/Animated Tiles/Water/Desaturated - background/PNGs/Water Tile.png"
-dest_files=["res://.godot/imported/Water Tile.png-e6a75a8b24df6517219c69f6d0bec620.ctex"]
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Critters/Foozle_2DT0006_Critters_Tileset_3_LazyRiver_Pixel_Art/Animated Tiles/Water/Desaturated bg/PNGs/Water Tile.png"
+dest_files=["res://.godot/imported/Water Tile.png-ecfb67f4165ce3e6812460d8df1dcf51.ctex"]
 
 [params]
 

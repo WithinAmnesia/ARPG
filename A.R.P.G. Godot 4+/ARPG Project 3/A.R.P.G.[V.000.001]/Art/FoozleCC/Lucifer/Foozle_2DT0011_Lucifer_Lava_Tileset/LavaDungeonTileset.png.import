@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgl1080l5hr3q"
-path="res://.godot/imported/LavaDungeonTileset.png-eec906867e12c7f7a93f9899cfc4f1db.ctex"
+path="res://.godot/imported/LavaDungeonTileset.png-185ffa92b77498f08b4f9868b19344c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DT0011_Lucifer_Lava_Tileset_Pixel_Art/LavaDungeonTileset.png"
-dest_files=["res://.godot/imported/LavaDungeonTileset.png-eec906867e12c7f7a93f9899cfc4f1db.ctex"]
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DT0011_Lucifer_Lava_Tileset/LavaDungeonTileset.png"
+dest_files=["res://.godot/imported/LavaDungeonTileset.png-185ffa92b77498f08b4f9868b19344c7.ctex"]
 
 [params]
 

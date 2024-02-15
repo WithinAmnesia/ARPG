@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca0xdyadfw6q1"
-path="res://.godot/imported/Narrow door red Closing.png-2f1a1f39415a180b0ede72248193107a.ctex"
+path="res://.godot/imported/Narrow door red Closing.png-dfe87c4184ddb5bb0bd4dc504ddfa949.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DT0011_Lucifer_Lava_Tileset_Pixel_Art/Animated Tiles/Lava Dungeon/Doors/Narrow Door Red/Png/Narrow door red Closing.png"
-dest_files=["res://.godot/imported/Narrow door red Closing.png-2f1a1f39415a180b0ede72248193107a.ctex"]
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DT0011_Lucifer_Lava_Tileset/Animated Tiles/Lava Dungeon/Doors/Narrow Door Red/Png/Narrow door red Closing.png"
+dest_files=["res://.godot/imported/Narrow door red Closing.png-dfe87c4184ddb5bb0bd4dc504ddfa949.ctex"]
 
 [params]
 

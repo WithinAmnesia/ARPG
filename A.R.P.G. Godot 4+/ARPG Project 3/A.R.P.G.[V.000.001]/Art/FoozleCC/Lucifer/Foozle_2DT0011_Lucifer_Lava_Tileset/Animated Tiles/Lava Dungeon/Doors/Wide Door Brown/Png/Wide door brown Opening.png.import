@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq0xf3x60d5gn"
-path="res://.godot/imported/Wide door brown Opening.png-e84811f139686857ee112e997a0e6d23.ctex"
+path="res://.godot/imported/Wide door brown Opening.png-a70a2e11ee5a177eab65d20d8820966c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DT0011_Lucifer_Lava_Tileset_Pixel_Art/Animated Tiles/Lava Dungeon/Doors/Wide Door Brown/Png/Wide door brown Opening.png"
-dest_files=["res://.godot/imported/Wide door brown Opening.png-e84811f139686857ee112e997a0e6d23.ctex"]
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DT0011_Lucifer_Lava_Tileset/Animated Tiles/Lava Dungeon/Doors/Wide Door Brown/Png/Wide door brown Opening.png"
+dest_files=["res://.godot/imported/Wide door brown Opening.png-a70a2e11ee5a177eab65d20d8820966c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cneot13lwpmgp"
-path="res://.godot/imported/LavaMockup.png-1dd653c705dc34eeb7d4b5b77f2154df.ctex"
+path="res://.godot/imported/LavaMockup.png-3925c03951eeba64defcf41d9d15ef56.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DT0011_Lucifer_Lava_Tileset_Pixel_Art/LavaMockup.png"
-dest_files=["res://.godot/imported/LavaMockup.png-1dd653c705dc34eeb7d4b5b77f2154df.ctex"]
+source_file="res://A.R.P.G.[V.000.001]/Art/FoozleCC/Lucifer/Foozle_2DT0011_Lucifer_Lava_Tileset/LavaMockup.png"
+dest_files=["res://.godot/imported/LavaMockup.png-3925c03951eeba64defcf41d9d15ef56.ctex"]
 
 [params]
 
