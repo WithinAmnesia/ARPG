@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="A.R.P.G. V.000.007 (JDungeon_Online_Webport)[Godot 4.2.1.NET]"
-config/description="Online Webport Master. Can Run Server Well On Itch.io. Classes Unactivated. X and Y Coordinates 0 x and 0 y are both positive. Large map testing."
+config/name="A.R.P.G. V.000.008 (JDungeon_Online_Webport)[Godot 4.2.1.NET]"
+config/description="Online Webport Master. Can Run Server Well On Itch.io. Classes Unactivated. X and Y Coordinates 0 x and 0 y are both positive. Large map testing+."
 run/main_scene="res://scenes/main/Main.tscn"
 config/features=PackedStringArray("4.2", "C#", "GL Compatibility")
 config/icon="res://Icon.png"
