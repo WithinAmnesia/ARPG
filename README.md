@@ -1,0 +1,1 @@
+How to start: Run 3-4 instances in the debug -> run multiple instances. Then run the first instance as Gateway. The second instance should run as Server. The third instance as Client. Make an account then log in. The fourth and more instances can be for client multi-boxing testing and work the same as the third instance.
