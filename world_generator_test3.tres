@@ -1,0 +1,6 @@
+[gd_resource type="VoxelGeneratorScript" load_steps=2 format=3 uid="uid://b7s8gfvrf0gc4"]
+
+[ext_resource type="Script" path="res://blocky_game/generator/world_generator_test3.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
