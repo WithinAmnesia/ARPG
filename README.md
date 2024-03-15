@@ -1,6 +1,6 @@
 It needs Godot Voxel 4.2.2.NET / godot.windows.editor.x86_64.exe.zip 
 https://github.com/Zylann/godot_voxel/releases/download/v1.1.0/godot.windows.editor.x86_64.exe.zip / 
-https://github.com/Zylann/godot_voxel/releases/tag/v1.1.0
+https://github.com/Zylann/godot_voxel/releases/tag/v1.1.0 / 
 https://github.com/WithinAmnesia/ARPG/blob/ARPG-Infinite-Worlds/Infinite_Worlds_V.000.007.000.012.zip
 
 How to start:
