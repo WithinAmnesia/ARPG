@@ -1,0 +1,32 @@
+(2D/3D Realistic Scale) 1 Pixel = 31.25 mm or 62.5 mm / 2, 3.125 cm or 6.25 cm / 2 and 1/1,024 Scale Minturized World Map (2024)
+"M.M.O.A.R.P.G. 50 x 50 1km x 1km = 2,500 areas for the Mage'Afar northwest region of the Human Realms.
+
+[10:23]
+1/1,024 Scale (or written as 1:1,024 scale) is like when you divide something in half 10 times in a row like:
+1.) 1/2
+2.) 1/4
+3.) 1/8
+4.) 1/16
+5.) 1/32
+6.) 1/64
+7.) 1/128
+8.) 1/256
+9.) 1/512
+10.) 1/1,024
+
+Matthew — Today at 10:29
+1km x 1km area 'map' = 1,000 meters x 1,000 meters or like 1,000 x 1,000 tiles with 16 x 16 pixel tiles so to find what 1 pixel = in mm to scale things somewhat accurately to keep things together for making a proper miniaturized world scaled to 1/1,024 scale from a pixel all the way to the planet accurately we go like: 1,000 meters x 1,000 meter = 1,000 x 1,000 map area block / tiles and each block / tile is 1/1000 of a kilometer or like 1 block / tile is 1 meter by 1 meter and each face has 16 x 16 pixels. So 1 meter = 1,000 milimeters / mm. So 1,000 mm / 16 pixels = 62.5 mm per pixel.
+[10:31]
+Or like 32 pixels = 32 x 62.5 mm = 2,000 mm = 2,000 mm / 25.4 mm = 1 inch = ~78.740 inch / 12 = ~6.561 feet.
+
+Matthew — Today at 10:43
+So this warrior who with the armour worn is ~32 pixels tall is in total ~6.5-6 ish game scale at 1/1,024 miniturized scale. Perhaps ~5.6-6.2 feet tall without armour in height. Each pixel is like ~ 2.5 inches or like 2 pixels ~5 inches or like 3 pixels is like ~7 inches ~4 pixels is like ~10 inches, ~5 pixels = ~12 inches / 1 foot, 6 pixels = 14-15 inches / ~1-1/4-5 feet. So if 32 pixels with armour - like 2-6 pixels without armour gets like yeah 5.7 feet to ~6.2 feet tall which is reasonable.
+
+[10:44]
+Everything fits together really accurately now."
+-Matthew Gordon Roulston and Ashley Corbin 10:47PM 23rd / 02 (February) / 2024
+
+
+2D Realistic Sprites for ~3 meter / ~6ft tall humanoids are ~32x64 pixels in x and y dimensions for minimum detail to achieve 2D/3D realistic scale immersion.
+
+-Matthew Gordon Roulston 8:53 PM 06th / 11 (November) / 2024
