@@ -1,0 +1,49 @@
+[gd_scene load_steps=10 format=3 uid="uid://dfjjsjpqasqqp"]
+
+[ext_resource type="Script" uid="uid://b3dprm1211c8b" path="res://blocky_terrain_hybrid_voxels/main.gd" id="1_60ktp"]
+[ext_resource type="VoxelGeneratorNoise2D" uid="uid://cailp5t1ulj67" path="res://blocky_terrain_hybrid_voxels/voxel_generator_noise_2d_blocky.tres" id="2_1ofl1"]
+[ext_resource type="VoxelBlockyLibrary" uid="uid://ble4n7dcojwvg" path="res://blocky_terrain_hybrid_voxels/voxel_library.tres" id="3_21pdo"]
+[ext_resource type="PackedScene" path="res://blocky_terrain_hybrid_voxels/character_avatar.tscn" id="4_0hoo0"]
+[ext_resource type="Script" uid="uid://cdxakk37uyuyv" path="res://blocky_terrain_hybrid_voxels/debug_info.gd" id="5_5dta5"]
+
+[sub_resource type="PhysicalSkyMaterial" id="PhysicalSkyMaterial_rxrxe"]
+
+[sub_resource type="Sky" id="1"]
+sky_material = SubResource("PhysicalSkyMaterial_rxrxe")
+
+[sub_resource type="Environment" id="2"]
+background_mode = 2
+sky = SubResource("1")
+ambient_light_color = Color(0.0546875, 0.0546875, 0.0546875, 1)
+ambient_light_sky_contribution = 0.7
+tonemap_mode = 2
+glow_hdr_threshold = 0.5
+fog_enabled = true
+fog_aerial_perspective = 1.0
+volumetric_fog_anisotropy = 0.1
+
+[sub_resource type="VoxelMesherBlocky" id="VoxelMesherBlocky_tqwku"]
+library = ExtResource("3_21pdo")
+
+[node name="Main" type="Node"]
+script = ExtResource("1_60ktp")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("2")
+
+[node name="VoxelTerrain" type="VoxelTerrain" parent="."]
+generator = ExtResource("2_1ofl1")
+mesher = SubResource("VoxelMesherBlocky_tqwku")
+max_view_distance = 256
+generate_collisions = false
+
+[node name="DirectionalLight" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.985468, 0.124099, -0.11598, 0.0154004, 0.745271, 0.666584, 0.169159, 0.655111, -0.736353, 1.51966, 19.7004, 14.0879)
+
+[node name="CharacterAvatar" parent="." instance=ExtResource("4_0hoo0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 28.0914, 17)
+head = NodePath("../../Main/CharacterAvatar/Camera")
+terrain = NodePath("../../Main/VoxelTerrain")
+
+[node name="DebugInfo" type="Node" parent="."]
+script = ExtResource("5_5dta5")

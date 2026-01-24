@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://dchokb84e0u2q"]
+
+[ext_resource type="Texture2D" uid="uid://55mpepebemg1" path="res://blocky_hybrid_terrain_test/terrain.png" id="1_1ls3g"]
+
+[resource]
+transparency = 1
+albedo_color = Color(0.7, 0.7, 0.7, 1)
+albedo_texture = ExtResource("1_1ls3g")
+roughness = 0.0
+texture_filter = 0
+texture_repeat = false

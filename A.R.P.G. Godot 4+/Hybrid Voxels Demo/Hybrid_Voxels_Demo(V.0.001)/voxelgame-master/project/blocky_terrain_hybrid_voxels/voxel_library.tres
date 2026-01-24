@@ -1,0 +1,25 @@
+[gd_resource type="VoxelBlockyLibrary" load_steps=5 format=3 uid="uid://ble4n7dcojwvg"]
+
+[ext_resource type="Material" uid="uid://btq8hx1s7puve" path="res://blocky_terrain_hybrid_voxels/terrain_material.tres" id="1_yekb8"]
+
+[sub_resource type="VoxelBlockyModelEmpty" id="VoxelBlockyModelEmpty_38whk"]
+resource_name = "air"
+
+[sub_resource type="VoxelBlockyModelCube" id="VoxelBlockyModelCube_n1jnm"]
+atlas_size_in_tiles = Vector2i(4, 4)
+material_override_0 = ExtResource("1_yekb8")
+resource_name = "sand"
+
+[sub_resource type="VoxelBlockyModelCube" id="VoxelBlockyModelCube_pwqip"]
+atlas_size_in_tiles = Vector2i(4, 4)
+tile_left = Vector2i(1, 0)
+tile_right = Vector2i(1, 0)
+tile_bottom = Vector2i(1, 0)
+tile_top = Vector2i(1, 0)
+tile_back = Vector2i(1, 0)
+tile_front = Vector2i(1, 0)
+material_override_0 = ExtResource("1_yekb8")
+resource_name = "dirt"
+
+[resource]
+models = Array[VoxelBlockyModel]([SubResource("VoxelBlockyModelEmpty_38whk"), SubResource("VoxelBlockyModelCube_n1jnm"), SubResource("VoxelBlockyModelCube_pwqip")])

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bjc5ieci0dw7l"
+path="res://.godot/imported/custom_mesh.obj-49b1a1acc4beed00bb56061a0b2a0e7f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/custom_mesh.obj-49b1a1acc4beed00bb56061a0b2a0e7f.mesh"]
+
+source_file="res://blocky_terrain_hybrid_voxels/custom_mesh.obj"
+dest_files=["res://.godot/imported/custom_mesh.obj-49b1a1acc4beed00bb56061a0b2a0e7f.mesh", "res://.godot/imported/custom_mesh.obj-49b1a1acc4beed00bb56061a0b2a0e7f.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=false
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
